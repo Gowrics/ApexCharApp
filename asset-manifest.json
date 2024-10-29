@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ApexCharApp/static/css/main.0cf2bb59.css",
+    "main.js": "/ApexCharApp/static/js/main.6c981084.js",
+    "static/js/453.7183c8ab.chunk.js": "/ApexCharApp/static/js/453.7183c8ab.chunk.js",
+    "index.html": "/ApexCharApp/index.html",
+    "main.0cf2bb59.css.map": "/ApexCharApp/static/css/main.0cf2bb59.css.map",
+    "main.6c981084.js.map": "/ApexCharApp/static/js/main.6c981084.js.map",
+    "453.7183c8ab.chunk.js.map": "/ApexCharApp/static/js/453.7183c8ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cf2bb59.css",
+    "static/js/main.6c981084.js"
+  ]
+}
